@@ -1,5 +1,5 @@
 # maze-arduino
-It's a maze.
+An LED maze that can light up in patterns. Created by Lihan Wang and Alexander Liu as part of the Arduino class in 2021.
 
 ## 3D design:
 ![maze-design](https://user-images.githubusercontent.com/65773072/172263951-9ed2db7e-ed9a-467c-ae32-2c551caa9879.jpg)
